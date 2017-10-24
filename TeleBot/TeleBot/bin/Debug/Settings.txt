@@ -2,5 +2,5 @@
 ResponsesPerQuestion(int):3
 PathToDatabase(str):C:\TEMP\NewQuestions.csv
 SoMode(true|false):true
-AccesToken(str)your_telegram_token
+AccesToken(str):your_telegram_token
 PythonFolder(str):C:\Python
